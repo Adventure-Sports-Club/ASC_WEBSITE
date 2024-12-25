@@ -15,22 +15,6 @@ a {outline: 0;}
 #header p{margin-top:-3px; font-size:.9rem; font-style:italic; text-transform:lowercase;}
 #header a{text-decoration: none;}
 
-#mainav ul{text-transform:uppercase; text-align:center;}
-#mainav ul{list-style-type: none;margin: 0;padding: 0;overflow: hidden;}
-#mainav li{display:inline-block;/*float: left;*/}
-#mainav li li {display:block;/*float: left;*/}
-#mainav li li a{display:block; margin:0; padding:10px 15px;border:solid #000000; border-width: 0px 0px 1px 0px; }
-#mainav li a{display:block; text-align:center; padding:20px 15px; text-decoration:none;}
-#mainav li a:hover{color: #151;}
-#mainav{margin-bottom:2em; border-bottom: 1px solid #838383;}
-#mainav .active > a , #mainav a:hover, #mainav li:hover > a{color:#82A800; background-color:inherit;}
-/*#mainav .active li > a{color:#FFFFFF; background-color:rgba(130,168,0,.6); border-color:rgba(0,0,0,.6);}*/
-#mainav {font-family: helvetica;}
-
-
-/*#mainav ul ul{visibility:hidden; opacity:0;}*/
-/*.navlist:after { width:70%; height:10px; background: #FFFFFF; content:"" }*/
-
 #logo {margin-top: 30px; }
 #logo h1{font-weight: 300;}
 
